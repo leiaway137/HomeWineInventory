@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RedWine - Household Alcohol Inventory
 
 A web application for managing your household wine and alcohol inventory with AI-powered bottle analysis using local LLMs.
@@ -124,3 +125,7 @@ RedWine/
 ## License
 
 MIT
+=======
+# HomeWineInventory
+Wine &amp; Alcohol Analyzer. Helps withs with giving diagnostic of owned wines based off images of the front and back labels. Provides a wine profile and storage suggestions.
+>>>>>>> origin/main
